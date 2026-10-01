@@ -3,8 +3,7 @@
 
 Here is a quick demonstration of the final product:
 
-[!👩🏼‍💻[Video demonstration]((https://youtu.be/fdJ75o3bMFk?si=4H6Y0Ag162RFi63O))
-
+[![👩🏼‍💻 Video demonstration](https://img.youtube.com/vi/fdJ75o3bMFk/maxresdefault.jpg)](https://youtu.be/fdJ75o3bMFk)
 
 > **Bachelor's Thesis — Computer Engineering · 2024/2025**
 
