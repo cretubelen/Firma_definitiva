@@ -6,10 +6,6 @@ Here is a quick demonstration of the final product:
 [▶️ Video demonstration](./media/demo.mp4)
 
 
-
-
-s
-
 > **Bachelor's Thesis — Computer Engineering · 2024/2025**
 
 A Microsoft Dynamics 365 Business Central extension that integrates **biometric signature capture** into sales documents through **Power Apps**, automating document generation, email delivery and the conversion of signed sales quotes into orders.
